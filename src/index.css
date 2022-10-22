@@ -105,3 +105,9 @@ a:hover {
     color: var(--color-bg);
     border-color: transparent;
 }
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
