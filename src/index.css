@@ -40,7 +40,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: url(../src/assets/bg-texture.png); */
+    background-image: url(../src/assets/bg-texture.png);
 }
 
 /* ============== general styles =============== */
@@ -113,6 +113,7 @@ img {
 }
 
 /* 
+
 /* ============== Media queries Tablet =============== */
 
 @media screen and (max-width:1024px) {
@@ -136,4 +137,3 @@ section {
 section>h2 {
     margin-bottom: 2rem;
 }
-
