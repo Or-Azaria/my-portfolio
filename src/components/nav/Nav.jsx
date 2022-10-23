@@ -5,11 +5,13 @@ import { RiServiceLine } from "react-icons/ri";
 import { BiBook } from "react-icons/bi";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
 import "./nav.css";
+import { useState } from "react";
 
 const Nav = () => {
+  const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
-      <a href="#">
+      <a href="#" className="active">
         <AiOutlineHome />
       </a>
       <a href="#about">
