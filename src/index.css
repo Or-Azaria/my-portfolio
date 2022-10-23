@@ -81,7 +81,7 @@ section>h2 {
 }
 
 a {
-    color: var(--color-light);
+    color: var(--color-primary);
     transition: var(--transition);
 }
 
@@ -104,6 +104,11 @@ a:hover {
     background: var(--color-white);
     color: var(--color-bg);
     border-color: transparent;
+}
+
+.btn-primary {
+    background-color: var(--color-primary);
+    color: var(--color-bg);
 }
 
 img {
