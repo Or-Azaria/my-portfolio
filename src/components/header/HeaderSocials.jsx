@@ -5,7 +5,7 @@ import { AiFillFacebook } from "react-icons/ai";
 
 const HeaderSocials = () => {
   return (
-    <div className="header_socials">
+    <section id="footer" className="header_socials">
       <a href="https://www.linkedin.com/in/or-azaria-66156b211" target="_blank">
         <AiFillLinkedin />
       </a>
@@ -15,7 +15,7 @@ const HeaderSocials = () => {
       <a href="https://www.facebook.com/or.azarya.5/" target="_blank">
         <AiFillFacebook />
       </a>
-    </div>
+    </section>
   );
 };
 
