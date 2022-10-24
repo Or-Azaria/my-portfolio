@@ -63,15 +63,15 @@ header {
 
 /* ============== Media queries (medium devices) =============== */
 
-@media screen and (max-width:1024px) {
+/* @media screen and (max-width:1024px) {
     header {
         height: 68vh;
     }
-}
+} */
 
 /* ============== Media queries (small devices) =============== */
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:1024px) {
     header {
         height: 100vh;
     }
@@ -82,6 +82,6 @@ header {
     }
 }
 
-section>h1 {
+section>h2 {
     margin-bottom: 2rem;
 }
