@@ -15,7 +15,17 @@
 /* ============== Media queries (medium devices) =============== */
 
 @media screen and (max-width:1024px) {
-    #about {}
+    #about {
+        height: 100vh;
+        text-align: center;
+
+    }
+
+    .about__content .btn {
+        position: absolute;
+        left: 45%;
+        margin-top: 3rem;
+    }
 }
 
 /* ============== Media queries (small devices) =============== */
@@ -32,5 +42,10 @@
         left: 36%;
         margin-top: 3rem;
     }
+
+    .about__content p {
+        margin: 1.5rem o;
+    }
+
 
 }
