@@ -1,0 +1,36 @@
+#about {
+    margin-top: 7rem;
+}
+
+.about__content p {
+    color: var(--color-light);
+}
+
+.about__content .btn {
+    position: absolute;
+    left: 47%;
+    margin-top: 3rem;
+}
+
+/* ============== Media queries (medium devices) =============== */
+
+@media screen and (max-width:1024px) {
+    #about {}
+}
+
+/* ============== Media queries (small devices) =============== */
+
+@media screen and (max-width:600px) {
+    #about {
+        height: 100vh;
+        text-align: center;
+        margin: 2rem 0.7rem;
+    }
+
+    .about__content .btn {
+        position: absolute;
+        left: 36%;
+        margin-top: 3rem;
+    }
+
+}

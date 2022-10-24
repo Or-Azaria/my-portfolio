@@ -64,9 +64,9 @@ header {
 /* ============== Media queries (medium devices) =============== */
 
 @media screen and (max-width:1024px) {
-    /* header {
-        height: 90vh;
-    } */
+    header {
+        height: 60rem;
+    }
 }
 
 /* ============== Media queries (small devices) =============== */
@@ -80,8 +80,8 @@ header {
     .scroll__down {
         display: none;
     }
-}
 
-section>h2 {
-    margin-bottom: 2rem;
+    section>h2 {
+        margin-bottom: 2rem;
+    }
 }
