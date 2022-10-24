@@ -8,7 +8,7 @@
 
 .about__content .btn {
     position: absolute;
-    left: 47%;
+    left: 46%;
     margin-top: 3rem;
 }
 
@@ -18,12 +18,11 @@
     #about {
         height: 100vh;
         text-align: center;
-
     }
 
     .about__content .btn {
         position: absolute;
-        left: 45%;
+        left: 10%;
         margin-top: 3rem;
     }
 }
