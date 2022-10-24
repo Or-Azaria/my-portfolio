@@ -19,32 +19,53 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsPatchCheckFill />
-              <h4>HTML</h4>
+              <h4>CSS</h4>
               <small className="text-light">experienced</small>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill />
-              <h4>HTML</h4>
+              <h4>SCSS</h4>
               <small className="text-light">experienced</small>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill />
-              <h4>HTML</h4>
+              <h4>bootstrap</h4>
               <small className="text-light">experienced</small>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill />
-              <h4>HTML</h4>
+              <h4>JavaScript</h4>
               <small className="text-light">experienced</small>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill />
-              <h4>HTML</h4>
+              <h4>React</h4>
               <small className="text-light">experienced</small>
             </article>
           </div>
         </div>
-        <div className="experience__backend"></div>
+        <div className="experience__backend">
+          <article className="experience__details">
+            <BsPatchCheckFill />
+            <h4>Python</h4>
+            <small className="text-light">experienced</small>
+          </article>
+          <article className="experience__details">
+            <BsPatchCheckFill />
+            <h4>Node.js</h4>
+            <small className="text-light">experienced</small>
+          </article>
+          <article className="experience__details">
+            <BsPatchCheckFill />
+            <h4>express</h4>
+            <small className="text-light">experienced</small>
+          </article>
+          <article className="experience__details">
+            <BsPatchCheckFill />
+            <h4>Flask</h4>
+            <small className="text-light">experienced</small>
+          </article>
+        </div>
       </div>
     </section>
   );
