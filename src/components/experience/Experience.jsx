@@ -48,22 +48,22 @@ const Experience = () => {
           <h3>backend development</h3>
           <article className="experience__details">
             <BsPatchCheckFill />
-            <h4>Python</h4>
+            <h4>Python - Flask</h4>
             <small className="text-light">experienced</small>
           </article>
           <article className="experience__details">
             <BsPatchCheckFill />
-            <h4>Node.js</h4>
+            <h4>Node.js - express</h4>
             <small className="text-light">experienced</small>
           </article>
           <article className="experience__details">
             <BsPatchCheckFill />
-            <h4>express</h4>
+            <h4> NoSQL</h4>
             <small className="text-light">experienced</small>
           </article>
           <article className="experience__details">
             <BsPatchCheckFill />
-            <h4>Flask</h4>
+            <h4>MongoDB</h4>
             <small className="text-light">experienced</small>
           </article>
         </div>
