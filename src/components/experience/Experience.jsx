@@ -45,6 +45,7 @@ const Experience = () => {
           </div>
         </div>
         <div className="experience__backend">
+          <h3>backend development</h3>
           <article className="experience__details">
             <BsPatchCheckFill />
             <h4>Python</h4>
