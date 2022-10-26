@@ -3,7 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Screen Shot 2022-10-26 at 11.22.34.png";
 import IMG2 from "../../assets/Screen Shot 2022-10-26 at 11.22.44.png";
 
-// links for applications - https://project-of-dice.netlify.app/ \\ https://top-fighters.netlify.app/
+// links for applications - https://project-of-dice.netlify.app/
 const Portfolio = () => {
   return (
     <section id="portfolio">
@@ -15,8 +15,8 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           </div>
           <h3>this is a portfolio title</h3>
-          <a href=""></a>
-          <a href=""></a>
+          <a href="https://github.com/Or-Azaria/Top-Fighters"></a>
+          <a href="https://top-fighters.netlify.app"></a>
         </article>
       </div>
     </section>
