@@ -9,26 +9,29 @@ const Contact = () => {
       <h5>get in touch</h5>
       <h2>contact me</h2>
       <div className="container contact__container">
-        <article className="contact__options">
-          <MdOutlineEmail />
-          <h4>Email</h4>
-          <h5>azriaor@gmail.com</h5>
-          <a href="mailto:azriaor@gmail.com"></a>
-        </article>
-        <article className="contact__options">
-          <RiMessengerLine />
-          <h4>messenger</h4>
-          <h5>or azaria</h5>
-          <a href="http://m.me/or.azarya.5"></a>
-        </article>
-        <article className="contact__options">
-          <BsWhatsapp />
-          <h4>whatsapp</h4>
-          <h5></h5>
-          <a href="mailto:azriaor@gmail.com"></a>
-        </article>
+        <div className="contact__options">
+          <article className="contact__option">
+            <MdOutlineEmail />
+            <h4>Email</h4>
+            <h5>azriaor@gmail.com</h5>
+            <a href="mailto:azriaor@gmail.com">Send a message</a>
+          </article>
+          <article className="contact__option">
+            <RiMessengerLine />
+            <h4>messenger</h4>
+            <h5>or azaria</h5>
+            <a href="http://m.me/or.azarya.5">Send a message</a>
+          </article>
+          <article className="contact__option">
+            <BsWhatsapp />
+            <h4>whatsApp</h4>
+            <a href="http://api.whatsapp.com/send?phone=+972545617176">
+              Send a message
+            </a>
+          </article>
+        </div>
         {/* End of contact options */}
-        <form action="">Send a message</form>
+        <form action=""></form>
       </div>
     </section>
   );
