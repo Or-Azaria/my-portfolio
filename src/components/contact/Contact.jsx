@@ -2,6 +2,7 @@ import React from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
+import { BsWhatsapp } from "react-icons/bs";
 const Contact = () => {
   return (
     <section id="contact">
@@ -21,9 +22,9 @@ const Contact = () => {
           <a href="http://m.me/or.azarya.5"></a>
         </article>
         <article className="contact__options">
-          <MdOutlineEmail />
-          <h4>Email</h4>
-          <h5>azriaor@gmail.com</h5>
+          <BsWhatsapp />
+          <h4>whatsapp</h4>
+          <h5></h5>
           <a href="mailto:azriaor@gmail.com"></a>
         </article>
         {/* End of contact options */}
