@@ -15,8 +15,11 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           </div>
           <h3>this is a portfolio title</h3>
-          <a href="https://github.com/Or-Azaria/Top-Fighters"></a>
-          <a href="https://top-fighters.netlify.app"></a>
+          <a
+            href="https://github.com/Or-Azaria/Top-Fighters"
+            target="_blank"
+          ></a>
+          <a href="https://top-fighters.netlify.app" target="_blank"></a>
         </article>
       </div>
     </section>
