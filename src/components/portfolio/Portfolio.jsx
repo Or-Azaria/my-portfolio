@@ -10,7 +10,7 @@ const Portfolio = () => {
       <h5>my recent work</h5>
       <h2>portfolio</h2>
       <div className="container portfolio__container">
-        <article className="portfolio_item">
+        <article className="portfolio__item">
           <div className="portfolio_item-image">
             <img src={IMG1} alt="fighters" />
           </div>
@@ -30,7 +30,7 @@ const Portfolio = () => {
             Live demo
           </a>
         </article>
-        <article className="portfolio_item">
+        <article className="portfolio__item">
           <div className="portfolio_item-image">
             <img src={IMG1} alt="fighters" />
           </div>
