@@ -12,12 +12,21 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm(
-      "service_ipyv2sf",
-      "template_dmrdd2c",
-      form.current,
-      "l2oFB0qWZSfn_Sp4g"
-    );
+    emailjs
+      .sendForm(
+        "service_q7sg24s",
+        "emplate_dmrdd2c",
+        form.current,
+        "l2oFB0qWZSfn_Sp4g"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
   };
   return (
     <section id="contact">
@@ -63,7 +72,6 @@ const Contact = () => {
           <input type="text" name="email" placeholder="Your Email" required />
           <textarea
             name="message"
-            id="7"
             rows="7"
             placeholder="Your Message"
             required
