@@ -12,7 +12,7 @@ const Services = () => {
             <h3>web development</h3>
           </div>
 
-          <ul className="services__list">
+          <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>

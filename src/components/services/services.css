@@ -28,3 +28,13 @@
     font-size: 1rem;
     text-align: center;
 }
+
+.service__list {
+    padding: 2rem;
+}
+
+.service__list li {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
