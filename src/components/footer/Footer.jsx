@@ -31,7 +31,6 @@ const Footer = () => {
           <a href="#contact">Contact</a>
         </li>
       </ul>
-
       <div className="footer__socials">
         <a href="https://www.facebook.com/or.azarya.5/">
           <FaFacebookF />
