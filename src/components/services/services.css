@@ -41,4 +41,9 @@
 
 .service__list-icon {
     color: var(--color-primary);
+    margin-top: 4px;
+}
+
+.service__list p {
+    font-size: 0.9rem;
 }
