@@ -12,14 +12,43 @@ const Portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG1} alt="" />
+            <img src={IMG1} alt="fighters" />
           </div>
           <h3>this is a portfolio title</h3>
           <a
             href="https://github.com/Or-Azaria/Top-Fighters"
+            className="btn"
             target="_blank"
-          ></a>
-          <a href="https://top-fighters.netlify.app" target="_blank"></a>
+          >
+            Git hub
+          </a>
+          <a
+            href="https://top-fighters.netlify.app"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            Live demo
+          </a>
+        </article>
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG1} alt="fighters" />
+          </div>
+          <h3>this is a portfolio title</h3>
+          <a
+            href="https://github.com/Or-Azaria/Top-Fighters"
+            className="btn"
+            target="_blank"
+          >
+            Git hub
+          </a>
+          <a
+            href="https://top-fighters.netlify.app"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            Live demo
+          </a>
         </article>
       </div>
     </section>
