@@ -77,13 +77,6 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4> NoSQL</h4>
-                <small className="text-light">experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
-              <div>
                 <h4>MongoDB</h4>
                 <small className="text-light">experienced</small>
               </div>
