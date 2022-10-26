@@ -1,6 +1,6 @@
 .portfolio__container {
     display: grid;
-    grid-template-columns: 2fr 2fr;
+    grid-template-columns: 1fr 1fr;
     gap: 3rem;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 2rem 0 2rem;
 }
 
 .portfolio__item-cta {

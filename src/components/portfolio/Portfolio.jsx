@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/Screen Shot 2022-10-26 at 11.22.34.png";
-import IMG2 from "../../assets/Screen Shot 2022-10-26 at 11.22.44.png";
+import IMG2 from "../../assets/Screen Shot 2022-10-26 at 17.02.32.png";
 
 const data = [
   {
