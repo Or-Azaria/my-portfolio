@@ -12,21 +12,13 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "service_q7sg24s",
-        "emplate_dmrdd2c",
-        form.current,
-        "l2oFB0qWZSfn_Sp4g"
-      )
-      .then(
-        (result) => {
-          console.log(result.text);
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
+    emailjs.sendForm(
+      "service_q7sg24s",
+      "template_dmrdd2c",
+      form.current,
+      "QPtnvH9Y25A_6qrVe"
+    );
+    e.target.reset();
   };
   return (
     <section id="contact">
