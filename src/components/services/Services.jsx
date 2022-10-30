@@ -8,7 +8,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>web development</h3>
+            <h3>web </h3>
           </div>
 
           <ul className="service__list">
