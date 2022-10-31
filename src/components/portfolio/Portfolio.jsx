@@ -22,9 +22,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Roll-dice",
-    github: "https://github.com/Or-Azaria/roll-dice-game",
-    demo: "https://project-of-dice.netlify.app",
+    title: "Tic-Tac-Toe",
+    github: "https://github.com/Or-Azaria/Tic-tac-toe",
+    demo: "https://tic-tac-toe-enjoy.netlify.app/",
   },
 ];
 const Portfolio = () => {
