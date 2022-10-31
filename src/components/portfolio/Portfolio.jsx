@@ -2,6 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/Screen Shot 2022-10-26 at 11.22.34.png";
 import IMG2 from "../../assets/Screen Shot 2022-10-26 at 17.02.32.png";
+import IMG3 from "../../assets/ticTacToe.png";
 
 const data = [
   {
@@ -14,6 +15,13 @@ const data = [
   {
     id: 2,
     image: IMG2,
+    title: "Roll-dice",
+    github: "https://github.com/Or-Azaria/roll-dice-game",
+    demo: "https://project-of-dice.netlify.app",
+  },
+  {
+    id: 3,
+    image: IMG3,
     title: "Roll-dice",
     github: "https://github.com/Or-Azaria/roll-dice-game",
     demo: "https://project-of-dice.netlify.app",
