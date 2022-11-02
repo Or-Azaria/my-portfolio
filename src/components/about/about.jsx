@@ -16,7 +16,7 @@ const about = () => {
           As a former Basketball-player, I know all about teamwork and the
           importance of being a part of a group, At my coding Bootcamp, it was
           second nature for me to connect and communicate with my classmates
-          which leads to more understanding, and problem-solving much faster! I
+          which leads to more understanding, and problem-solving situations! I
           started programming on February 28, 2022. In "Tech-career", and I'm
           finally ready to become better than ever and create more things that
           will help the world become a better place.

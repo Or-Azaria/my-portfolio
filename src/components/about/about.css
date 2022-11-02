@@ -10,6 +10,10 @@
         height: 25vh;
         text-align: center;
     }
+
+    .about__content p {
+        font-size: 1.3rem;
+    }
 }
 
 /* ============== Media queries (small devices) =============== */
