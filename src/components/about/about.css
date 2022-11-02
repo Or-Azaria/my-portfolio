@@ -3,24 +3,12 @@
     font-size: 1.3rem;
 }
 
-.about__content .btn {
-    position: absolute;
-    left: 46%;
-    margin-top: 3rem;
-}
-
 /* ============== Media queries (medium devices) =============== */
 
 @media screen and (max-width:1024px) {
     #about {
         height: 25vh;
         text-align: center;
-    }
-
-    .about__content .btn {
-        position: absolute;
-        left: 10%;
-        margin-top: 3rem;
     }
 }
 
@@ -33,15 +21,10 @@
         margin: 2rem 0.7rem;
     }
 
-    .about__content .btn {
-        position: absolute;
-        left: 36%;
-        margin-top: 3rem;
-    }
-
     .about__content p {
-        margin: 1.5rem o;
-    }
+        margin: 1.5rem 0;
+        font-size: 1.2rem;
 
+    }
 
 }

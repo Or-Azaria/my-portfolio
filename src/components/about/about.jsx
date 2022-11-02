@@ -12,6 +12,7 @@ const about = () => {
           to design and create things in my own unique way. Especially when it
           becomes useful to others.
           <br />
+          <br />
           As a former Basketball-player, I know all about teamwork and the
           importance of being a part of a group, At my coding Bootcamp, it was
           easy for me to connect and communicate with my classmates which leads
