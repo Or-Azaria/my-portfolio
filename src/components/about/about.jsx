@@ -17,6 +17,9 @@ const about = () => {
           importance of being a part of a group, At my coding Bootcamp, it was
           easy for me to connect and communicate with my classmates which leads
           to more understanding, and problem-solving much faster!
+          <br />
+          <br />I started coding in february,28 2022.
+          
         </p>
       </div>
     </section>
