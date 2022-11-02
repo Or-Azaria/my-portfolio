@@ -1,5 +1,6 @@
 .about__content p {
     color: var(--color-light);
+    font-size: 1.3rem;
 }
 
 .about__content .btn {
