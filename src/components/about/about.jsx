@@ -8,8 +8,8 @@ const about = () => {
 
       <div className="about__content container">
         <p>
-          I from Lod, Israel born and raised. since childhood, I always tried to
-          design and create things in my own unique way. Especially when it
+          I a from Lod, Israel born and raised. since childhood, I always tried
+          to design and create things in my own unique way. Especially when it
           becomes useful to others.
           <br />
           <br />
