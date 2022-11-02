@@ -1,6 +1,6 @@
 .about__content p {
     color: var(--color-light);
-    font-size: 1.3rem;
+    /* font-size: 1.3rem; */
 }
 
 /* ============== Media queries (medium devices) =============== */
@@ -24,7 +24,5 @@
     .about__content p {
         margin: 1.5rem 0;
         font-size: 1.2rem;
-
     }
-
 }
