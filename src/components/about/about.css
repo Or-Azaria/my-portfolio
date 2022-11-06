@@ -7,7 +7,7 @@
 
 @media screen and (max-width:1024px) {
     #about {
-        height: 25vh;
+        height: 100vh;
         text-align: center;
     }
 
@@ -20,7 +20,7 @@
 
 @media screen and (max-width:600px) {
     #about {
-        height: 50vh;
+        height: 100vh;
         text-align: center;
         margin: 2rem 0.2rem;
     }
