@@ -2,7 +2,7 @@ import React from "react";
 import "./header.css";
 import CTA from "./CTA";
 import ME from "../../assets/me.png";
-import FaReact from "react-icons/fa";
+import { FaReact } from "react-icons/fa";
 import HeaderSocials from "./HeaderSocials";
 
 const Header = () => {
@@ -10,10 +10,7 @@ const Header = () => {
     <header>
       <section id="header" className="container header__container">
         <h5>Hi I'm</h5>
-        <h2>
-          <FaReact />
-          Or Azaria
-        </h2>
+        <FaReact /> <h2>Or Azaria</h2>
         <h5>Fullstack Developer</h5>
         <CTA />
         <HeaderSocials />
