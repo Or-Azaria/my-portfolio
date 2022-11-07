@@ -10,7 +10,9 @@ const Header = () => {
     <header>
       <section id="header" className="container header__container">
         <h5>Hi I'm</h5>
-        <FaReact /> <h2>Or Azaria</h2>
+        <span>
+          <FaReact /> <h2>Or Azaria</h2>
+        </span>
         <h5>Fullstack Developer</h5>
         <CTA />
         <HeaderSocials />
