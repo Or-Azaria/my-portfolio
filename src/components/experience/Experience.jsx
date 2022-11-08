@@ -32,7 +32,13 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>bootstrap/tailwind</h4>
+                <h4>bootstrap</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>tailwind</h4>
               </div>
             </article>
             <article className="experience__details">
