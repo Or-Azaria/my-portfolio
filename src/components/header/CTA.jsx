@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../../assets/Or_Azaria_-_Full_Stack_Developer _9).pdf';
+import CV from '../../assets/Or_Azaria_-_Full_Stack_Developer.pdf';
 const CTA = () => {
   return (
     <div className="cta">
