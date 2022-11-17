@@ -15,7 +15,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Roll-dice',
+    title: 'Roll-dice(For Desktop only)',
     github: 'https://github.com/Or-Azaria/roll-dice-game',
     demo: 'https://project-of-dice.netlify.app',
   },
