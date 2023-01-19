@@ -1,8 +1,5 @@
 # Portfolio - Full Stack Developer
 Welcome to my portfolio! I am a full stack developer with experience in various web development technologies.
-
-# Skills
-HTML, CSS, JavaScript and React.
 # Contact
 * Email: azriaor@gmail.com
 * LinkedIn: https://www.linkedin.com/in/or-azaria-66156b211
