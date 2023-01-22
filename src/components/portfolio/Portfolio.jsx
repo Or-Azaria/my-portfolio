@@ -50,7 +50,7 @@ const Portfolio = () => {
                   GitHub
                 </a>
                 <a href={demo} className="btn btn-primary" target="_blank">
-                  Live demo
+                  Watch project
                 </a>
               </div>
             </article>
