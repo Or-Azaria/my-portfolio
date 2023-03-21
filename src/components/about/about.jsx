@@ -1,5 +1,5 @@
-import React from "react";
-import "./about.css";
+import React from 'react';
+import './about.css';
 
 const about = () => {
   return (
@@ -8,18 +8,19 @@ const about = () => {
 
       <div className="about__content container">
         <p>
-          I am from Lod, Israel born and raised. since childhood, I always tried
-          to design and create things in my own unique way. Especially when it
-          becomes useful to others.
+          As a former athlete, I know firsthand how one moment can change the
+          trajectory of your life. An injury during a game left me unable to
+          play basketball, which forced me to reevaluate my future. While
+          recovering, I discovered my passion for technology and full stack
+          development.
           <br />
-          <br />
-          As a former Basketball-player, I know all about teamwork and the
-          importance of being a part of a group, At my coding Bootcamp, it was
-          second nature for me to connect and communicate with my classmates
-          which leads to more understanding, and problem-solving situations! I
-          started programming on February 28, 2022. In "Tech-career", and I'm
-          finally ready to become better than ever and create more things that
-          will help the world become a better place.
+          <br />I was drawn to the creativity and problem-solving skills
+          required to build something from scratch using code. Like basketball,
+          full stack development requires teamwork, perseverance, and attention
+          to detail, and I found myself fully immersed in this new world.
+          Despite the setback from my injury, I feel grateful for discovering a
+          new passion, and I'm committed to pursuing it with the same dedication
+          and enthusiasm that I brought to basketball.
         </p>
       </div>
     </section>
