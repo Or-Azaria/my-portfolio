@@ -8,7 +8,7 @@ const about = () => {
 
       <div className="about__content container">
         <p>
-          a former athlete, I know firsthand how one moment can change the
+          As a former athlete, I know firsthand how one moment can change the
           trajectory of your life. An injury during a game left me unable to
           play basketball, which forced me to reevaluate my future. While
           recovering, I discovered my passion for technology and full stack
